@@ -37,13 +37,14 @@ To view the resume webpage, you can either:
 Open index.html in your web browser.
 Alternatively, you may access the hosted version of this resume online here (replace this link with the actual deployment link if available).
 
-Contact
+## Contact
 Feel free to connect with me for further discussion or collaboration:
 
 Email: palakpatel.1027@gmail.com
 LinkedIn: linkedin.com/in/palakpatel01
 GitHub: github.com/palakpatel01
-Thank you for visiting my resume webpage repository! If you find it useful or have suggestions, please feel free to contribute or reach out.
+
+###Thank you for visiting my resume webpage repository! If you find it useful or have suggestions, please feel free to contribute or reach out.
 
 
 This README provides a clear overview of your project and helps others understand how to navigate your resume webpage, as well as how to contact you for professional inquiries.
