@@ -40,9 +40,9 @@ Alternatively, you may access the hosted version of this resume online here (rep
 ## Contact
 Feel free to connect with me for further discussion or collaboration:
 
-Email: palakpatel.1027@gmail.com
-LinkedIn: linkedin.com/in/palakpatel01
-GitHub: github.com/palakpatel01
+- Email: palakpatel.1027@gmail.com
+- LinkedIn: https://linkedin.com/in/palakpatel01
+- GitHub: https://github.com/palakpatel01
 
 ###Thank you for visiting my resume webpage repository! If you find it useful or have suggestions, please feel free to contribute or reach out.
 
